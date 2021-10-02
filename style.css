@@ -85,7 +85,6 @@ body{
 }
 #section2 .text{
     flex-basis: 50%;
-    border: 1px solid blue;
 }
 
 #section2 .container{
